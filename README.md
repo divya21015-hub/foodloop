@@ -1,3 +1,3 @@
-# `@rollup/rollup-win32-x64-msvc`
+# esbuild
 
-This is the **x86_64-pc-windows-msvc** binary for `rollup`
+This is a JavaScript bundler and minifier. See https://github.com/evanw/esbuild and the [JavaScript API documentation](https://esbuild.github.io/api/) for details.
